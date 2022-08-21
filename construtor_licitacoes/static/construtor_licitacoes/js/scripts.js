@@ -19,7 +19,6 @@ tinymce.init({
     tinycomments_author: 'Author name',
   });
 
-  
 
   function openNavLeft() {
     document.getElementById('menuLateralEsquerdo').style.display = "none";
@@ -49,7 +48,6 @@ tinymce.init({
     document.getElementById('menuLateralEsquerdo').style.display = "none";
     document.getElementById("mySidebarLeftSecoes").style.width = "20%";
     document.getElementById("main").style.marginLeft = "16%";
-    menuSecoesFeitas();
   }
 
   function closeNavLeftSecoes() {
