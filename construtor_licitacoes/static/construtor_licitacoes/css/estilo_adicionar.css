@@ -101,6 +101,7 @@ footer {
 
 #closeRight{
   left: 0;
+  padding-left: 1vh;
 }
 
 #closeLeft{
